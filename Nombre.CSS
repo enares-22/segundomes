@@ -207,7 +207,7 @@
          .decima-2{
             position: absolute;
             right:425px ;
-            bottom: 160x;
+            bottom: 160px;
          }
          .decima-4{
             position: absolute;
@@ -287,7 +287,7 @@
 
          @keyframes latiendo {
             0%{transform: scale(1.4);}
-            80%{transform: scale(2.)}
+            80%{transform: scale(2)}
          }
          
 
